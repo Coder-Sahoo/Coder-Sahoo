@@ -92,6 +92,6 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 </div>
 <div align="center">
 ⭐ "Data is a precious thing and will last longer than the systems themselves." - Tim Berners-Lee
-https://komarev.com/ghpvc/?username=Sahil-Bagri&color=blueviolet&style=for-the-badge
+https://komarev.com/ghpvc/?username=Coder-Sahoo&color=blueviolet&style=for-the-badge
 
 </div>
