@@ -59,9 +59,6 @@ Hello! I'm **Sahil Bagri**, a passionate Data Science learner actively exploring
 </div>
 
 <div align="center">
-  
-  ![Data Science Banner](https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80)
-  
   ### *"GitHub Contribution Graph"*
   
   [![](https://github-readme-activity-graph.vercel.app/graph?username=Coder-Sahoo&theme=react-dark&hide_border=true&area=true)
@@ -75,16 +72,15 @@ Data Analysis and Visualization
 Open Source Data Science tools
 
 Research projects in AI/ML
-
-📫 Connect With Me
 <div align="center">
-https://img.shields.io/badge/LinkedIn-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-
+  ### 📫 Connect With Me
+  
+  [![](https://img.shields.io/badge/LinkedIn-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+   [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+    [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 </div>
 <div align="center">
 ⭐ "Data is a precious thing and will last longer than the systems themselves." - Tim Berners-Lee
-https://komarev.com/ghpvc/?username=Coder-Sahoo&color=blueviolet&style=for-the-badge
-
+  
+[![](https://komarev.com/ghpvc/?username=Coder-Sahoo&color=blueviolet&style=for-the-badge)
 </div>
