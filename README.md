@@ -1,15 +1,19 @@
-
 # 🚀 Sahil Bagri | Data Science Enthusiast
+
 <div align="center">
+  
   ![Data Science Banner](https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80)
+  
+  ### *"Turning Data into Decisions"*
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahil-bagri-3b4589324)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sb1935174@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Sahil-Bagri)
+
 </div>
 
-### *"Turning Data into Decisions"*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahil-bagri-3b4589324)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sb1935174@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Sahil-Bagri)
-
 ## 👨‍💻 About Me
+
 Hello! I'm **Sahil Bagri**, a passionate Data Science learner actively exploring the world of machine learning, data analysis, and artificial intelligence. I enjoy transforming raw data into meaningful insights and building intelligent solutions.
 
 - 🔭 **Currently Working On:** Building my Data Science portfolio
@@ -20,6 +24,7 @@ Hello! I'm **Sahil Bagri**, a passionate Data Science learner actively exploring
 - ⚡ **Fun fact:** I believe every dataset tells a unique story!
 
 ## 🛠️ Tech Stack
+
 ### **Programming & Development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,36 +47,51 @@ Hello! I'm **Sahil Bagri**, a passionate Data Science learner actively exploring
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Sahil-Bagri&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Bagri&theme=radical&hide_border=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Bagri&theme=radical&hide_border=true&layout=compact&langs_count=8)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil-Bagri&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Bagri&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Bagri&theme=radical&hide_border=true&layout=compact&langs_count=8)
+
 </div>
 
 ## 🎯 Current Focus
+
 mermaid
 graph LR
-A[Python Mastery] --> B[Data Analysis]
-B --> C[Machine Learning]
-C --> D[Deep Learning]
-D --> E[Deployment]
+    A[Python Mastery] --> B[Data Analysis]
+    B --> C[Machine Learning]
+    C --> D[Deep Learning]
+    D --> E[Deployment]
 
-
-## 🤝 Let's Collaborate!
-I'm actively looking to collaborate on:
-- Machine Learning projects
-- Data Analysis and Visualization
-- Open Source Data Science tools
-- Research projects in AI/ML
-
-## 📫 Connect With Me
+📈 GitHub Contribution Graph
 <div align="center">
-[!https://img.shields.io/badge/LinkedIn-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://linkedin.com/in/sahil-bagri-3b4589324)
-[!https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:sb1935174@gmail.com)
-[!https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/Sahil-Bagri)
-</div>
+https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Bagri&theme=react-dark&hide_border=true&area=true
 
+</div>
+🤝 Let's Collaborate!
+I'm actively looking to collaborate on:
+
+Machine Learning projects
+
+Data Analysis and Visualization
+
+Open Source Data Science tools
+
+Research projects in AI/ML
+
+📫 Connect With Me
+<div align="center">
+https://img.shields.io/badge/LinkedIn-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+
+</div>
 <div align="center">
 ⭐ "Data is a precious thing and will last longer than the systems themselves." - Tim Berners-Lee
-!https://komarev.com/ghpvc/?username=Sahil-Bagri&color=blueviolet&style=for-the-badge
+https://komarev.com/ghpvc/?username=Sahil-Bagri&color=blueviolet&style=for-the-badge
+
 </div>
