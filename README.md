@@ -58,20 +58,13 @@ Hello! I'm **Sahil Bagri**, a passionate Data Science learner actively exploring
 
 </div>
 
-## 🎯 Current Focus
-
-mermaid
-graph LR
-    A[Python Mastery] --> B[Data Analysis]
-    B --> C[Machine Learning]
-    C --> D[Deep Learning]
-    D --> E[Deployment]
-
-📈 GitHub Contribution Graph
 <div align="center">
-https://github-readme-activity-graph.vercel.app/graph?username=Coder-Sahoo&theme=react-dark&hide_border=true&area=true
-
-</div>
+  
+  ![Data Science Banner](https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80)
+  
+  ### *"GitHub Contribution Graph"*
+  
+  [![](https://github-readme-activity-graph.vercel.app/graph?username=Coder-Sahoo&theme=react-dark&hide_border=true&area=true)
 🤝 Let's Collaborate!
 I'm actively looking to collaborate on:
 
