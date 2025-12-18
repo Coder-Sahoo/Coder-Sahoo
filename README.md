@@ -73,7 +73,7 @@ Open Source Data Science tools
 
 Research projects in AI/ML
 <div align="center">
-  ### 📫 Connect With Me
+  ## 📫 Connect With Me
   
   [![](https://img.shields.io/badge/LinkedIn-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
    [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
